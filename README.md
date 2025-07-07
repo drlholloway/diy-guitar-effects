@@ -1,5 +1,16 @@
-# guitar-effects
+# Guitar Effects
 A second brain for guitar effects information I always look up.
+
+## Equipment
+Stuff you need or might need when building guitar pedals.
+
+### Soldering Iron
+These are pretty personal, I really like MetCal and they can be picked up on eBay for about the cost of a decent new soldering iron if you just watch. I paid a little under $200 shipped for a MetCal MX-500P-II with solder iron and soldering iron stand. I also got a desoldering gun for about $175 which makes desoldering a little bit easier. I wouldn't suggest going this route until you've decided you really want to continue down the path of building guitar pedals.
+
+For starting out, I'd suggest getting a decent soldering gun that has replacable tips, can adjust temperature, and has a stand. I'd also spring for a soldering mat so you can keep your desk or work area from getting burned by a soldering tip. 😄
+
+### Solder
+You can't build the pedal without a way to mate the components to the pcb. Broadly, there are two type of solder: Lead-based and lead-free. I tend towards lead free.
 
 ## PCBs and Kits
 Here are places that sell PCBs and kits that I like to purchase from (alphabetically):
@@ -48,7 +59,7 @@ Use these from about 1uF upwards. You can tell when you need to use them on a sc
 ### Potentiometers
 Tayda and Stomp Box Parts both have wonderful potentiometers. I tend to like Stomp Box Parts' Cusack brand just a shade more than the Alpha or Tayda branded potentiometers but in most my builds I'll just use the Alpha or Tayda ones as the difference is basically imperveciable. If you get the 16mm Tayda potentiometers, make sure you get the 6.35mm diameter shafts. I also generally shy away from splined and d-shafts.
 
-### Diodes
+### Diodes (and LEDs)
 Tayda for basically everything when it comes to diodes. If you're looking for Germanium or Russian ones, Stomp Box Parts is really good or troll eBay, but be careful, as there are some shady sellers.
 
 ### Transistors
@@ -56,3 +67,23 @@ Mouser or Tayda for them. I haven't gotten a bad one from either. Mouser is _pro
 
 ### ICs
 For anything in production, Tayda or Mouser, after than take a look at Stomp Box Parts or Small Bear Electronics.
+
+### Enclosures
+Tayda has a great selection and very reasonable prices. You can also look at Stomp Box Parts, Love My Switches, Stomp Box Supply, and sometimes Mouser. My standard go to is Tayda for everything personal. For anything I'm going to sell I'd make sure I'm getting a Hammond or Gorva enclosure.
+
+### Knobs
+Love My Switches or Tayda are my two go to places for knobs. I really like the smaller aluminum knobs which Love My Switches sell but Tayda has some great choices too.
+
+### Switches & Foot Switches
+Tayda has almost all the switches you are going to need from SPST, SPDT, DPDT, etc. They've also got a great selection of rotary switches as well. If Tayda doesn't have them, I look to Love My Switches or Stomp Box Parts. Small Bear Electronics also carries many as well.
+
+### 1/4 Audio Jacks
+By now, you can guess, the default is Tayda. From there I'd look at Mouser, Stomp Box Parts and Small Bear. Love My Switches is pretty good too.
+
+### DC Jacks
+Tayda, Mouser or Stomp Box Parts for almost all of them. I believe Small Bear Electronics has a nice really slim one great for tight builds. I like to get ones that fix on the outside to give more room on the inside of the box when building for myself. It makes it easier to remove everything and test if there is something wrong.
+
+### Wire
+I'm going to totally ape AionFX here and suggest you just use this [wire](https://smallbear-electronics.mybigcommerce.com/22-pre-bond-colors-50-ft-spool/) from Small Bear Electronics.
+
+
