@@ -5,6 +5,7 @@ A second brain for guitar effects information I always look up.
 1. [Equipment](#equipment)
 2. [Components](#components)
 3. [Tayda Drill Templates](#tayda-drill-templates)
+4. [Building](#building)
 
 ## Equipment
 Stuff you need or might need when building guitar pedals.
@@ -103,3 +104,27 @@ One of the most annoying things to do is drilling enclosures. Tayda has a drilli
 No Known Drill Template: 
 1. [Underminer Sub-Octave Synthesizer](https://www.pedalpcb.com/product/pcb360/)
 2. [Duo-Phase](https://www.pedalpcb.com/product/duophase/)
+
+## Building
+Building a PCB is a very straight-forward process but sometimes there are gotchas. Here are the steps that I take to build one.
+
+### Setup
+Clean the area where you are going to work. A clean workspace makes for a much easier time when working. So, take a few minutes to clean up and prepare where you'll be working. Layout everythign you need and make sure it is all in working order.
+
+### Read the Instructions
+I know, seems stupid, but, really, we often don't do it and jump in and start soldering stuff right away only to find out that we messed something up. So, take a few minutes and read the instructions all the way through a few times to make sure you know what parts you need, what the pcb (and hopefully schematic) are
+
+### Gather Components
+
+### Build Order
+The general idea is to build from the least tall component to the tallest, meaning you'll start with resistors and work your way up to potentiometers and off board wiring.
+
+1. Resistors and diodes
+2. Sockets
+3. Capacitors
+4. Transistors
+5. Potentiometers and switches
+
+### Helpful Sites
+1. [5-band resistor color code decoder](https://circuitdigest.com/calculators/5-band-resistor-color-code-calculator)
+2. [PedalPCB Forums](https://forum.pedalpcb.com)
