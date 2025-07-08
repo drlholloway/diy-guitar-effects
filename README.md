@@ -1,6 +1,10 @@
 # Guitar Effects
 A second brain for guitar effects information I always look up.
 
+## Table of Contents
+1. [Equipment](## Equipment)
+2. [Components](## Components)
+
 ## Equipment
 Stuff you need or might need when building guitar pedals.
 
@@ -86,4 +90,15 @@ Tayda, Mouser or Stomp Box Parts for almost all of them. I believe Small Bear El
 ### Wire
 I'm going to totally ape AionFX here and suggest you just use this [wire](https://smallbear-electronics.mybigcommerce.com/22-pre-bond-colors-50-ft-spool/) from Small Bear Electronics.
 
+## Tayda Drill Templates
+One of the most annoying things to do is drilling enclosures. Tayda has a drilling service that is cheap and easy to use. I highly suggest using drill templates to save yourself some time and pain when building. Below are links to makers and drill templates associated with the PCB. I'm sure this will grow as I add and build more.
 
+| Company  | Drill Template | PCBs |
+|----------|----------------|------|
+| PedalPCB | [125B 5 Knob (Type 1)](https://drill.taydakits.com/box-designs/new?public_key=STgrTk5XbCs2b3FIVU5pVmE1M2pvUT09Cg==) | Chalumeau (PCB077) |
+| PedalPCB | [125B 2 Knob (Type 1)](https://drill.taydakits.com/box-designs/new?public_key=dlp0K3RxQkFreEFXVGRXZVlIUE1hZz09Cg==) | Panspermia Fuzz (PCB112), Mister Fuzz (PCB401), Friendly Fire Fuzz (PCB246) |
+| PedalPCB | [125B 3-Knob (Type 1)](https://drill.taydakits.com/box-designs/new?public_key=NmZuV2JzM1paYkIrUnVHQjJnMGdjQT09Cg==) | Titania2 (PCB081) |
+
+No Known Drill Template: 
+1. [Underminer Sub-Octave Synthesizer](https://www.pedalpcb.com/product/pcb360/)
+2. [Duo-Phase](https://www.pedalpcb.com/product/duophase/)
