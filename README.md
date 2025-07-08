@@ -126,5 +126,6 @@ The general idea is to build from the least tall component to the tallest, meani
 5. Potentiometers and switches
 
 ### Helpful Sites
-1. [5-band resistor color code decoder](https://circuitdigest.com/calculators/5-band-resistor-color-code-calculator)
-2. [PedalPCB Forums](https://forum.pedalpcb.com)
+1. [Resistor color code decoder](https://circuitdigest.com/calculators/5-band-resistor-color-code-calculator)
+2. [PedalPCB Forum](https://forum.pedalpcb.com)
+3. [What Can I Build?](https://dvhx.github.io/what-can-i-build/)
