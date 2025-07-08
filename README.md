@@ -2,8 +2,9 @@
 A second brain for guitar effects information I always look up.
 
 ## Table of Contents
-1. [Equipment](## Equipment)
-2. [Components](## Components)
+1. [Equipment](#equipment)
+2. [Components](#components)
+3. [Tayda Drill Templates](#tayda-drill-templates)
 
 ## Equipment
 Stuff you need or might need when building guitar pedals.
