@@ -119,11 +119,16 @@ I know, seems stupid, but, really, we often don't do it and jump in and start so
 ### Build Order
 The general idea is to build from the least tall component to the tallest, meaning you'll start with resistors and work your way up to potentiometers and off board wiring.
 
-1. Resistors and diodes
-2. Sockets
-3. Capacitors
-4. Transistors
-5. Potentiometers and switches
+1. Prepare the enclosure
+2. Resistors and diodes
+3. Sockets
+4. Capacitors
+5. Transistors
+6. Potentiometers and switches
+7. Offboard wires, dc jacks, audio plugs, etc.
+8. Test
+9. Box
+10. Play
 
 ### Helpful Sites
 1. [Resistor color code decoder](https://circuitdigest.com/calculators/5-band-resistor-color-code-calculator)
