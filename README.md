@@ -31,7 +31,7 @@ Here are places that sell PCBs and kits that I like to purchase from (alphabetic
 For the first time builder, I'd suggest the [Ultimmate Beginner Pedal Kit](https://shop.mas-effects.com/products/ultimate-beginner-pedal-kit) from Mas Effects as it has everything (other than soldering iron) to get you from zero to pedal.
 
 ## Components
-When it comes to purchasing components you can start a holy war. So, I'm just going to go with the places I typically use and what I get from each of them.
+When it comes to purchasing components you can start a holy war. So, I'm just going to go with the places I typically use and what I get from each of them. Consider what I list below, as my take on what AionFX has stated [here](https://aionfx.com/resources/parts-sourcing-where-to-buy-what/).
 1. [Tayda Electronics](https://www.taydaelectronics.com) - passive components (resistors, potentiometers, etc.), enclosures, ocassionally ICs
 2. [Mouser](https://wwww.mouser.com) - capacitors, ICs, ocassionally resistors or other passive components, audio jacks, and dc jacs
 3. [Love My Switches](https://lovemyswitches.com/) - knobs, enclosures
