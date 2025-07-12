@@ -6,6 +6,7 @@ A second brain for guitar effects information I always look up.
 2. [Components](#components)
 3. [Tayda Drill Templates](#tayda-drill-templates)
 4. [Building](#building)
+5. [Books and Resources](#books-and-resources)
 
 ## Equipment
 Stuff you need or might need when building guitar pedals.
@@ -100,6 +101,10 @@ One of the most annoying things to do is drilling enclosures. Tayda has a drilli
 | PedalPCB | [125B 5 Knob (Type 1)](https://drill.taydakits.com/box-designs/new?public_key=STgrTk5XbCs2b3FIVU5pVmE1M2pvUT09Cg==) | Chalumeau (PCB077) |
 | PedalPCB | [125B 2 Knob (Type 1)](https://drill.taydakits.com/box-designs/new?public_key=dlp0K3RxQkFreEFXVGRXZVlIUE1hZz09Cg==) | Panspermia Fuzz (PCB112), Mister Fuzz (PCB401), Friendly Fire Fuzz (PCB246) |
 | PedalPCB | [125B 3-Knob (Type 1)](https://drill.taydakits.com/box-designs/new?public_key=NmZuV2JzM1paYkIrUnVHQjJnMGdjQT09Cg==) | Titania2 (PCB081) |
+| AionFX   | [Spectron](https://drill.taydakits.com/box-designs/new?public_key=a0I0Q1NCY2c1RXJYNy80dHdVRytIQT09Cg==) | Spectron (Lovetone Meatball) |
+| AionFX   | [Neurotron](https://drill.taydakits.com/box-designs/new?public_key=bkQ5K3owNmRaUmhqMkhMQTRxUTlrZz09Cg==) | Neurotron (Lovetone Ring Stinger) |
+| AionFX   | [Quadratron](https://drill.taydakits.com/box-designs/new?public_key=VmxrVEZJTDdPZGNVWm9WTWlmMTh6Zz09Cg==) | Quadratron (Lovetone Doppelganger) |
+| AionFX   | [Xenotron](https://drill.taydakits.com/box-designs/new?public_key=SlZ6Nm5zYlR1OE43WlloZFZQWTVBZz09Cg==) | Xenotron (Lovetone ? / Flange with no Name) |
 
 No Known Drill Template: 
 1. [Underminer Sub-Octave Synthesizer](https://www.pedalpcb.com/product/pcb360/)
@@ -134,3 +139,9 @@ The general idea is to build from the least tall component to the tallest, meani
 1. [Resistor color code decoder](https://circuitdigest.com/calculators/5-band-resistor-color-code-calculator)
 2. [PedalPCB Forum](https://forum.pedalpcb.com)
 3. [What Can I Build?](https://dvhx.github.io/what-can-i-build/)
+
+## Books and Resources
+Here are books and websites that have a lot of knowledge or details on things you might want to know about.
+
+1. [The Art of Electronics, 3rd Edition](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266)
+2. [Muzique](https://www.muzique.com/)
