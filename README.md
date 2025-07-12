@@ -1,4 +1,4 @@
-# Guitar Effects
+# DIY Guitar Effects
 A second brain for guitar effects information I always look up.
 
 ## Table of Contents
