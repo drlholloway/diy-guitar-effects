@@ -25,9 +25,10 @@ Here are places that sell PCBs and kits that I like to purchase from (alphabetic
 2. [DeadEnd FX](https://www.deadendfx.com/)
 3. [Effects Layouts](https://www.effectslayouts.com)
 4. [FuzzDog](https://shop.pedalparts.co.uk/)
-5. [PedalPCB](https://www.pedalpcb.com)
-6. [Mas Effects](https://mas-effects.com/)
-7. [Small Bear Electronics](https://smallbear-electronics.mybigcommerce.com/)
+5. [Lectric-FX](https://lectric-fx.com/)
+6. [PedalPCB](https://www.pedalpcb.com)
+7. [Mas Effects](https://mas-effects.com/)
+8. [Small Bear Electronics](https://smallbear-electronics.mybigcommerce.com/)
 
 For the first time builder, I'd suggest the [Ultimmate Beginner Pedal Kit](https://shop.mas-effects.com/products/ultimate-beginner-pedal-kit) from Mas Effects as it has everything (other than soldering iron) to get you from zero to pedal.
 
