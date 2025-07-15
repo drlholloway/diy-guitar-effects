@@ -123,7 +123,7 @@ I know, seems stupid, but, really, we often don't do it and jump in and start so
 ### Gather Components
 
 ### Build Order
-The general idea is to build from the least tall component to the tallest, meaning you'll start with resistors and work your way up to potentiometers and off board wiring.
+The general idea is to build from the shortest component to the tallest, meaning you'll start with resistors and work your way up to potentiometers and off board wiring. It also helps to have your drilled enclosure ready before you solder on potentiometers, switches, and other off-board components as it will act as a template and also let you know if you've got enough space for everything.
 
 1. Prepare the enclosure
 2. Resistors and diodes
