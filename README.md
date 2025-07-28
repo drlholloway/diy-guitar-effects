@@ -141,9 +141,11 @@ The general idea is to build from the shortest component to the tallest, meaning
 Here are books and websites that have a lot of knowledge or details on things you might want to know about.
 
 1. [The Art of Electronics, 3rd Edition](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266)
-2. [Electrosmash](https://electrosmash.com/)
-3. [GeoFX](http://www.geofex.com/)
-4. [Muzique](https://www.muzique.com/)
-5. [PedalPCB Forum](https://forum.pedalpcb.com)
-6. [Resistor color code decoder](https://circuitdigest.com/calculators/5-band-resistor-color-code-calculator)
-7. [What Can I Build?](https://dvhx.github.io/what-can-i-build/)
+2. [DIY Stompboxes](https://www.diystompboxes.com/)
+3. [Electrosmash](https://electrosmash.com/)
+4. [GeoFX](http://www.geofex.com/)
+5. [Muzique](https://www.muzique.com/)
+6. [PedalPCB Forum](https://forum.pedalpcb.com)
+7. [Reddit /r/diypedals](https://wwww.reddit.com/r/diypedals)
+8. [Resistor color code decoder](https://circuitdigest.com/calculators/5-band-resistor-color-code-calculator)
+9. [What Can I Build?](https://dvhx.github.io/what-can-i-build/)
