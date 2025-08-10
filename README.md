@@ -40,7 +40,7 @@ When it comes to purchasing components you can start a holy war. So, I'm just go
 4. [Stomp Box Parts](https://stompboxparts.com/) - rare diodes, footswitches, ocassionally audio jacks, knobs, enclosures
 5. [AionFX](https://www.aionfx.com) - J201 (smd on an adapter for through hole), other specific items related to AionFX builds
 6. [Small Bear Electronics](https://smallbear-electronics.mybigcommerce.com/) - wire, pcbs, hard to find ICs or transistors
-7. [Cabin Tech Global](https://cabintechglobal.com/)
+7. [Cabin Tech Global](https://cabintechglobal.com/) - best price for XVIVE Vactrols (VTL5C1, VTL5C3, VTL5C4)
 
 If you're wondering about quality components, I'll first state that I haven't had an issue with anything I've bought from Tayda or Mouser or anywhere else; but, I generally try to keep to certain brands.
 
