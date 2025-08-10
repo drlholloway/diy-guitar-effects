@@ -96,17 +96,19 @@ Tayda, Mouser or Stomp Box Parts for almost all of them. I believe Small Bear El
 I'm going to totally ape AionFX here and suggest you just use this [wire](https://smallbear-electronics.mybigcommerce.com/22-pre-bond-colors-50-ft-spool/) from Small Bear Electronics.
 
 ## Tayda Drill Templates
-One of the most annoying things to do is drilling enclosures. Tayda has a drilling service that is cheap and easy to use. I highly suggest using drill templates to save yourself some time and pain when building. Below are links to makers and drill templates associated with the PCB. I'm sure this will grow as I add and build more.
+One of the most annoying things to do is drilling enclosures. Tayda has a drilling service that is cheap and easy to use. I highly suggest using drill templates to save yourself some time and pain when building. Below are links to makers and drill templates associated with the PCB. I'm sure this will grow as I add and build more. PedalPCB generally has a link to the correct Tayda Drill Template on their site.
 
-| Company  | Drill Template | PCBs |
-|----------|----------------|------|
-| PedalPCB | [125B 5 Knob (Type 1)](https://drill.taydakits.com/box-designs/new?public_key=STgrTk5XbCs2b3FIVU5pVmE1M2pvUT09Cg==) | Chalumeau (PCB077) |
-| PedalPCB | [125B 2 Knob (Type 1)](https://drill.taydakits.com/box-designs/new?public_key=dlp0K3RxQkFreEFXVGRXZVlIUE1hZz09Cg==) | Panspermia Fuzz (PCB112), Mister Fuzz (PCB401), Friendly Fire Fuzz (PCB246) |
-| PedalPCB | [125B 3-Knob (Type 1)](https://drill.taydakits.com/box-designs/new?public_key=NmZuV2JzM1paYkIrUnVHQjJnMGdjQT09Cg==) | Titania2 (PCB081) |
-| AionFX   | [Spectron](https://drill.taydakits.com/box-designs/new?public_key=a0I0Q1NCY2c1RXJYNy80dHdVRytIQT09Cg==) | Spectron (Lovetone Meatball) |
-| AionFX   | [Neurotron](https://drill.taydakits.com/box-designs/new?public_key=bkQ5K3owNmRaUmhqMkhMQTRxUTlrZz09Cg==) | Neurotron (Lovetone Ring Stinger) |
-| AionFX   | [Quadratron](https://drill.taydakits.com/box-designs/new?public_key=VmxrVEZJTDdPZGNVWm9WTWlmMTh6Zz09Cg==) | Quadratron (Lovetone Doppelganger) |
-| AionFX   | [Xenotron](https://drill.taydakits.com/box-designs/new?public_key=SlZ6Nm5zYlR1OE43WlloZFZQWTVBZz09Cg==) | Xenotron (Lovetone ? / Flange with no Name) |
+| Company     | Drill Template | PCBs / Name |
+|-------------|----------------|-------------|
+| PedalPCB    | [125B 5 Knob (Type 1)](https://drill.taydakits.com/box-designs/new?public_key=STgrTk5XbCs2b3FIVU5pVmE1M2pvUT09Cg==) | Chalumeau (PCB077) |
+| PedalPCB    | [125B 2 Knob (Type 1)](https://drill.taydakits.com/box-designs/new?public_key=dlp0K3RxQkFreEFXVGRXZVlIUE1hZz09Cg==) | Panspermia Fuzz (PCB112), Mister Fuzz (PCB401), Friendly Fire Fuzz (PCB246) |
+| PedalPCB    | [125B 3-Knob (Type 1)](https://drill.taydakits.com/box-designs/new?public_key=NmZuV2JzM1paYkIrUnVHQjJnMGdjQT09Cg==) | Titania2 (PCB081) |
+| AionFX      | [Spectron](https://drill.taydakits.com/box-designs/new?public_key=a0I0Q1NCY2c1RXJYNy80dHdVRytIQT09Cg==) | Spectron (Lovetone Meatball) |
+| AionFX      | [Neurotron](https://drill.taydakits.com/box-designs/new?public_key=bkQ5K3owNmRaUmhqMkhMQTRxUTlrZz09Cg==) | Neurotron (Lovetone Ring Stinger) |
+| AionFX      | [Quadratron](https://drill.taydakits.com/box-designs/new?public_key=VmxrVEZJTDdPZGNVWm9WTWlmMTh6Zz09Cg==) | Quadratron (Lovetone Doppelganger) |
+| AionFX      | [Xenotron](https://drill.taydakits.com/box-designs/new?public_key=SlZ6Nm5zYlR1OE43WlloZFZQWTVBZz09Cg==) | Xenotron (Lovetone ? / Flange with no Name) |
+| Dead End FX | [Sputter](https://drill.taydakits.com/box-designs/new?public_key=N0x1RVVMVENHT1JldGQ1ZmpXSitLZz09Cg==) | Last Gasp Arts Labs Ripplet |
+| Dead End FX | [Switchblade](https://drill.taydakits.com/box-designs/new?public_key=N3VXRTZTcTdQVnJGZVk4eU8zQ3oyUT09Cg==) | Last Gasp Arts Super Oscillo Fuzz 88 |
 
 No Known Drill Template: 
 1. [Underminer Sub-Octave Synthesizer](https://www.pedalpcb.com/product/pcb360/)
