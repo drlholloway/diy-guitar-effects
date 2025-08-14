@@ -6,7 +6,8 @@ A second brain for guitar effects information I always look up.
 2. [Components](#components)
 3. [Tayda Drill Templates](#tayda-drill-templates)
 4. [Building](#building)
-5. [Books and Resources](#books-and-resources)
+5. [PCBs](#PCBs)
+6. [Books and Resources](#books-and-resources)
 
 ## Equipment
 Stuff you need or might need when building guitar pedals.
@@ -139,6 +140,9 @@ The general idea is to build from the shortest component to the tallest, meaning
 9. Box
 10. Play
 
+## PCBs
+Ok, you've built a bunch of pedals using other folk's PCBs. What about making your own? Yes, you can and it isn't terrible.
+
 ## Books and Resources
 Here are books and websites that have a lot of knowledge or details on things you might want to know about.
 
@@ -147,9 +151,10 @@ Here are books and websites that have a lot of knowledge or details on things yo
 3. [DIY Stompboxes](https://www.diystompboxes.com/)
 4. [Electrosmash](https://electrosmash.com/)
 5. [GeoFX](http://www.geofex.com/)
-6. [Wampler's Guitar Pedal Course](https://www.guitarpedalcourse.com/)
-7. [Muzique](https://www.muzique.com/)
-8. [PedalPCB Forum](https://forum.pedalpcb.com)
-9. [Reddit /r/diypedals](https://wwww.reddit.com/r/diypedals)
-10. [Resistor color code decoder](https://circuitdigest.com/calculators/5-band-resistor-color-code-calculator)
-11. [What Can I Build?](https://dvhx.github.io/what-can-i-build/)
+6. [JLPCB Assembly](https://github.com/z2amiller/pedalfx/blob/main/JLCPCBA.md)
+7. [Wampler's Guitar Pedal Course](https://www.guitarpedalcourse.com/)
+8. [Muzique](https://www.muzique.com/)
+9. [PedalPCB Forum](https://forum.pedalpcb.com)
+10. [Reddit /r/diypedals](https://wwww.reddit.com/r/diypedals)
+11. [Resistor color code decoder](https://circuitdigest.com/calculators/5-band-resistor-color-code-calculator)
+12. [What Can I Build?](https://dvhx.github.io/what-can-i-build/)
