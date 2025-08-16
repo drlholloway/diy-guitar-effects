@@ -104,6 +104,7 @@ One of the most annoying things to do is drilling enclosures. Tayda has a drilli
 | PedalPCB    | [125B 5 Knob (Type 1)](https://drill.taydakits.com/box-designs/new?public_key=STgrTk5XbCs2b3FIVU5pVmE1M2pvUT09Cg==) | Chalumeau (PCB077) |
 | PedalPCB    | [125B 2 Knob (Type 1)](https://drill.taydakits.com/box-designs/new?public_key=dlp0K3RxQkFreEFXVGRXZVlIUE1hZz09Cg==) | Panspermia Fuzz (PCB112), Mister Fuzz (PCB401), Friendly Fire Fuzz (PCB246) |
 | PedalPCB    | [125B 3-Knob (Type 1)](https://drill.taydakits.com/box-designs/new?public_key=NmZuV2JzM1paYkIrUnVHQjJnMGdjQT09Cg==) | Titania2 (PCB081) |
+| PedalPCB    | [Muffin Factory](https://drill.taydakits.com/box-designs/new?public_key=ZS9POFN5K1AxTWFZaEh1VG1VREVoZz09Cg==) | Muffin Factory | 
 | AionFX      | [Spectron](https://drill.taydakits.com/box-designs/new?public_key=a0I0Q1NCY2c1RXJYNy80dHdVRytIQT09Cg==) | Spectron (Lovetone Meatball) |
 | AionFX      | [Neurotron](https://drill.taydakits.com/box-designs/new?public_key=bkQ5K3owNmRaUmhqMkhMQTRxUTlrZz09Cg==) | Neurotron (Lovetone Ring Stinger) |
 | AionFX      | [Quadratron](https://drill.taydakits.com/box-designs/new?public_key=VmxrVEZJTDdPZGNVWm9WTWlmMTh6Zz09Cg==) | Quadratron (Lovetone Doppelganger) |
