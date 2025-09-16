@@ -159,4 +159,5 @@ Here are books and websites that have a lot of knowledge or details on things yo
 10. [PedalPCB Forum](https://forum.pedalpcb.com)
 11. [Reddit /r/diypedals](https://wwww.reddit.com/r/diypedals)
 12. [Resistor color code decoder](https://circuitdigest.com/calculators/5-band-resistor-color-code-calculator)
-13. [What Can I Build?](https://dvhx.github.io/what-can-i-build/)
+13. [Semiconductor Company Logos](https://componentstash.com/reference/semiconductor-logos)
+14. [What Can I Build?](https://dvhx.github.io/what-can-i-build/)
