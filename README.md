@@ -147,17 +147,20 @@ Ok, you've built a bunch of pedals using other folk's PCBs. What about making yo
 ## Books and Resources
 Here are books and websites that have a lot of knowledge or details on things you might want to know about.
 
+
+
 1. [The Art of Electronics, 3rd Edition](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266)
 2. [Awesome Pedal](https://github.com/szukalski/awesome-pedal)
 3. [DIY Stompboxes](https://www.diystompboxes.com/)
 4. [Electrosmash](https://electrosmash.com/)
 5. [GeoFX](http://www.geofex.com/)
-6. [JLPCB Assembly](https://github.com/z2amiller/pedalfx/blob/main/JLCPCBA.md)
-7. [JLPCBA Component Catalog](https://yaqwsx.github.io/jlcparts/#/)
-8. [Wampler's Guitar Pedal Course](https://www.guitarpedalcourse.com/)
-9. [Muzique](https://www.muzique.com/)
-10. [PedalPCB Forum](https://forum.pedalpcb.com)
-11. [Reddit /r/diypedals](https://wwww.reddit.com/r/diypedals)
-12. [Resistor color code decoder](https://circuitdigest.com/calculators/5-band-resistor-color-code-calculator)
-13. [Semiconductor Company Logos](https://componentstash.com/reference/semiconductor-logos)
-14. [What Can I Build?](https://dvhx.github.io/what-can-i-build/)
+6. [(My) Guitar Effects Layouts](https://github.com/drlholloway/guitar-effects-layouts)
+7. [JLPCB Assembly](https://github.com/z2amiller/pedalfx/blob/main/JLCPCBA.md)
+8. [JLPCBA Component Catalog](https://yaqwsx.github.io/jlcparts/#/)
+9. [Wampler's Guitar Pedal Course](https://www.guitarpedalcourse.com/)
+10. [Muzique](https://www.muzique.com/)
+11. [PedalPCB Forum](https://forum.pedalpcb.com)
+12. [Reddit /r/diypedals](https://wwww.reddit.com/r/diypedals)
+13. [Resistor color code decoder](https://circuitdigest.com/calculators/5-band-resistor-color-code-calculator)
+14. [Semiconductor Company Logos](https://componentstash.com/reference/semiconductor-logos)
+15. [What Can I Build?](https://dvhx.github.io/what-can-i-build/)
